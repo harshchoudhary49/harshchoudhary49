@@ -1,219 +1,257 @@
-<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer • Java & DSA Enthusiast • Building Real-World Applications
-</h3>
+# 👋 Hi, I'm Harsh Choudhary
 
-<p align="center">
+### Full-Stack Developer • Java & DSA Enthusiast • Problem Solver
+
+<p>
   <a href="https://github.com/harshchoudhary49">
-    <img src="https://komarev.com/ghpvc/?username=harshchoudhary49&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=harshchoudhary49&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/harshchoudhary49?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshchoudhary49?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/harshchoudhary49?tab=repositories">
+    <img src="https://img.shields.io/github/stars/harshchoudhary49?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars"/>
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/harshchoudhary49">
+    <img src="https://img.shields.io/badge/GitHub-Harsh%20Choudhary-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshchoudhary839395@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer from India** who enjoys building practical web applications and solving problems with **Java and Data Structures & Algorithms**.
+I'm a passionate **Full-Stack Developer** focused on building practical, scalable, and user-friendly web applications.
 
-* 🔭 Currently working on **[WorkHub](https://github.com/harshchoudhary49/WorkHub)**
+* 🔭 Currently building **[WorkHub](https://github.com/harshchoudhary49/WorkHub)**
 * 🌱 Currently learning **Tailwind CSS** and improving my full-stack development skills
-* 💻 Interested in **React.js, Node.js, Express.js, MongoDB & Java**
+* 💻 Strong interest in **React.js, Node.js, Express.js, MongoDB and Java**
 * 🧠 Practicing **Data Structures & Algorithms in Java**
-* 🤝 Open to collaborating on interesting projects
-* 💬 Ask me about **React, Java, DSA, Node.js and MongoDB**
-* 📫 Reach me at **[harshchoudhary839395@gmail.com](mailto:harshchoudhary839395@gmail.com)**
-* 📄 **[View My Resume](https://resumelink.co/harsh)**
-
----
-
-## 🚀 What I'm Building
-
-### 🏢 WorkHub
-
-**WorkHub** is a full-stack workforce management platform focused not only on employee management and attendance, but also on **team tracking and contribution visibility**.
-
-The goal is to help managers understand:
-
-* 👥 Team participation
-* 📊 Individual contributions
-* ⏱️ Attendance and working activity
-* 🏢 Departments and team organization
-* 🤝 Team collaboration
-* 📈 Workforce performance
-
-🔗 **[Explore WorkHub →](https://github.com/harshchoudhary49/WorkHub)**
+* 🤝 Open to collaborating on interesting web development projects
+* 🎯 Currently focused on becoming a **job-ready full-stack developer**
+* ⚡ I enjoy turning ideas into functional applications and solving problems through code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools & Platforms
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,aws" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Harsh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&hide_border=true&theme=github-dark-blue" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📅 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+<div align="center">
 
----
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49\&theme=github-compact\&hide_border=true)](https://github.com/harshchoudhary49)
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/harshchoudhary49">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</a>
+
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 💻 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/harshchoudhary49/WorkHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshchoudhary49&repo=WorkHub&hide_border=true" alt="WorkHub"/>
-  </a>
+### 🏢 [WorkHub](https://github.com/harshchoudhary49/WorkHub)
 
-  <a href="https://github.com/harshchoudhary49/airbnb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshchoudhary49&repo=airbnb&hide_border=true" alt="Airbnb Project"/>
-  </a>
-</p>
+**Full-Stack Workforce Management Platform**
 
----
+A workforce management platform designed to manage employees, teams, attendance, departments, and day-to-day operations while providing better visibility into team participation and individual contributions.
 
-## 🧠 DSA & Problem Solving
+**Key focus:**
 
-I regularly practice **Data Structures & Algorithms using Java**, with a focus on building strong problem-solving fundamentals.
+* 👥 Employee & team management
+* 📊 Team participation tracking
+* 🕒 Attendance & working hours
+* 🏢 Departments & offices
+* 🔐 Authentication & role-based access
+* 📈 Better visibility into team contribution
 
-### Currently practicing:
-
-* Arrays & Strings
-* Recursion
-* Linked Lists
-* Stacks & Queues
-* Binary Trees
-* Binary Search
-* Sorting Algorithms
-* Hashing
-* Two Pointers
-* Sliding Window
-
-### Coding Profile
-
-<p align="center">
-  <a href="https://leetcode.com/harsh__choudhary__49/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-</p>
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
-## 📌 Current Focus
+### 🏠 [Airbnb](https://github.com/harshchoudhary49/airbnb)
+
+**Full-Stack Accommodation Platform**
+
+A web application inspired by accommodation and property-booking platforms, built to practice modern full-stack development and create a complete user-focused web experience.
+
+**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB` `React.js`
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I'm actively improving my problem-solving skills with **Java + DSA**.
+
+### Currently practicing
+
+* 🔹 Arrays & Strings
+* 🔹 Recursion
+* 🔹 Linked Lists
+* 🔹 Stacks & Queues
+* 🔹 Binary Trees
+* 🔹 Binary Search
+* 🔹 Sorting
+* 🔹 Hashing
+* 🔹 Two Pointers
+* 🔹 Problem-solving patterns
+
+### 🟡 LeetCode
+
+<a href="https://leetcode.com/harsh__choudhary__49/">
+  <img src="https://img.shields.io/badge/LeetCode-Harsh__Choudhary-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+> Consistently practicing DSA to improve algorithmic thinking and problem-solving.
+
+---
+
+## 🎯 Current Focus
 
 ```text
-Full-Stack Development
-        ↓
-React.js + Tailwind CSS
-        ↓
-Node.js + Express.js
-        ↓
-MongoDB + REST APIs
-        ↓
-Authentication & Authorization
-        ↓
-Real-World Projects
-        ↓
-Java + DSA + Problem Solving
+Frontend Development       ███████████████████░░  90%
+Backend Development        ████████████████░░░░░  80%
+Java & DSA                 ███████████████░░░░░░  75%
+Database & API Design      ███████████████░░░░░░  75%
+System Design              ████████░░░░░░░░░░░░░  40%
 ```
+
+### Currently Learning
+
+* ⚛️ Advanced React
+* 🎨 Tailwind CSS
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB
+* ☕ Java & DSA
+* 🔐 Authentication & API Security
+* 🏗️ Backend architecture
+
+---
+
+## 📌 What I'm Looking For
+
+I'm interested in:
+
+* 💼 Software Development Opportunities
+* 🤝 Open Source Collaboration
+* 🚀 Full-Stack Projects
+* 🧠 DSA & Problem-Solving Challenges
+* 🌱 Opportunities to learn and grow as a developer
+
+If you're working on something interesting, feel free to connect!
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:harshchoudhary839395@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+<a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/harsh__choudhary__49/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:harshchoudhary839395@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/harsh__choudhary__49">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+</a>
 
-  <a href="https://leetcode.com/harsh__choudhary__49/">
-    <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-
-  <a href="https://www.instagram.com/harsh__choudhary__49/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-> **Build. Break. Debug. Learn. Repeat.**
-
-I'm continuously learning, building projects, solving problems, and improving my ability to turn ideas into working software.
+</div>
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Let's build something meaningful together.</i>
-</p>
+### 💭 Developer Philosophy
+
+**"Build. Learn. Break. Fix. Repeat."**
+
+<br/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
