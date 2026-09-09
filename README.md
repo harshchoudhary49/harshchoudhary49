@@ -82,19 +82,6 @@ I'm a passionate **Full-Stack Developer** focused on building practical, scalabl
 
 # 📊 GitHub Overview
 
-<div align="center">
-
-### 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 🔥 Contribution Streak
 
