@@ -1,99 +1,257 @@
-<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
-<h3 align="center">A passionate Frontend & Backend Developer from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshchoudhary49&label=Profile%20views&color=0e75b6&style=flat" alt="harshchoudhary49" />
-  <a href="https://github.com/harshchoudhary49?tab=followers"><img src="https://img.shields.io/github/followers/harshchoudhary49?label=Followers&style=flat&color=blue" alt="followers" /></a>
-  <a href="https://linkedin.com/in/harsh-choudhary-857755403"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
-</p>
+# 👋 Hi, I'm Harsh Choudhary
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=radical&no-frame=true&row=1&column=7" alt="harshchoudhary49" />
+### Full-Stack Developer • Java & DSA Enthusiast • Problem Solver
+
+<p>
+  <a href="https://github.com/harshchoudhary49">
+    <img src="https://komarev.com/ghpvc/?username=harshchoudhary49&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/harshchoudhary49?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshchoudhary49?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/harshchoudhary49?tab=repositories">
+    <img src="https://img.shields.io/github/stars/harshchoudhary49?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars"/>
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/harshchoudhary49">
+    <img src="https://img.shields.io/badge/GitHub-Harsh%20Choudhary-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshchoudhary839395@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I'm currently working on [**WorkHub**](https://github.com/harshchoudhary49/WorkHub)
-- 🌱 I'm currently learning **Tailwind CSS**
-- 👯 I'm looking to collaborate on [**Airbnb Clone**](https://github.com/harshchoudhary49/airbnb)
-- 🤝 I'm looking for help with [**WorkHub**](https://github.com/harshchoudhary49/WorkHub)
-- 💬 Ask me about **React, DSA (Java)**
-- 📫 Reach me at **harshchoudhary839395@gmail.com**
-- 📄 Check out my resume: [resumelink.co/harsh](https://resumelink.co/harsh)
+I'm a passionate **Full-Stack Developer** focused on building practical, scalable, and user-friendly web applications.
+
+* 🔭 Currently building **[WorkHub](https://github.com/harshchoudhary49/WorkHub)**
+* 🌱 Currently learning **Tailwind CSS** and improving my full-stack development skills
+* 💻 Strong interest in **React.js, Node.js, Express.js, MongoDB and Java**
+* 🧠 Practicing **Data Structures & Algorithms in Java**
+* 🤝 Open to collaborating on interesting web development projects
+* 🎯 Currently focused on becoming a **job-ready full-stack developer**
+* ⚡ I enjoy turning ideas into functional applications and solving problems through code
 
 ---
 
-### 🌐 Connect with me
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-choudhary-857755403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh__choudhary__49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harsh__choudhary__49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
 </p>
 
----
-
-### 🛠️ Languages and Tools
+### 🎨 Frontend
 
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,aws" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Overview
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="harshchoudhary49 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&theme=radical" alt="top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&theme=radical" alt="harshchoudhary49 streak" />
-</p>
+### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49&theme=react-dark" alt="harshchoudhary49 activity graph" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark" />
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/harshchoudhary49" alt="harshchoudhary49 contribution chart" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
 
----
+</div>
 
-### 📌 Featured Projects
+<br/>
 
-<p align="center">
-  <a href="https://github.com/harshchoudhary49/WorkHub">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=harshchoudhary49&repo=WorkHub&theme=radical" />
-  </a>
-  <a href="https://github.com/harshchoudhary49/airbnb">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=harshchoudhary49&repo=airbnb&theme=radical" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>✏️ Edit the repo names above, or add more pin cards for any other repo you want to feature — just swap the <code>repo=</code> value.</i></p>
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&hide_border=true&theme=github-dark-blue" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/harshchoudhary49">harshchoudhary49</a></i></p>
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49\&theme=github-compact\&hide_border=true)](https://github.com/harshchoudhary49)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/harshchoudhary49">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+### 🏢 [WorkHub](https://github.com/harshchoudhary49/WorkHub)
+
+**Full-Stack Workforce Management Platform**
+
+A workforce management platform designed to manage employees, teams, attendance, departments, and day-to-day operations while providing better visibility into team participation and individual contributions.
+
+**Key focus:**
+
+* 👥 Employee & team management
+* 📊 Team participation tracking
+* 🕒 Attendance & working hours
+* 🏢 Departments & offices
+* 🔐 Authentication & role-based access
+* 📈 Better visibility into team contribution
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+---
+
+### 🏠 [Airbnb](https://github.com/harshchoudhary49/airbnb)
+
+**Full-Stack Accommodation Platform**
+
+A web application inspired by accommodation and property-booking platforms, built to practice modern full-stack development and create a complete user-focused web experience.
+
+**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB` `React.js`
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I'm actively improving my problem-solving skills with **Java + DSA**.
+
+### Currently practicing
+
+* 🔹 Arrays & Strings
+* 🔹 Recursion
+* 🔹 Linked Lists
+* 🔹 Stacks & Queues
+* 🔹 Binary Trees
+* 🔹 Binary Search
+* 🔹 Sorting
+* 🔹 Hashing
+* 🔹 Two Pointers
+* 🔹 Problem-solving patterns
+
+### 🟡 LeetCode
+
+<a href="https://leetcode.com/harsh__choudhary__49/">
+  <img src="https://img.shields.io/badge/LeetCode-Harsh__Choudhary-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+> Consistently practicing DSA to improve algorithmic thinking and problem-solving.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend Development       ███████████████████░░  90%
+Backend Development        ████████████████░░░░░  80%
+Java & DSA                 ███████████████░░░░░░  75%
+Database & API Design      ███████████████░░░░░░  75%
+System Design              ████████░░░░░░░░░░░░░  40%
+```
+
+### Currently Learning
+
+* ⚛️ Advanced React
+* 🎨 Tailwind CSS
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB
+* ☕ Java & DSA
+* 🔐 Authentication & API Security
+* 🏗️ Backend architecture
+
+---
+
+## 📌 What I'm Looking For
+
+I'm interested in:
+
+* 💼 Software Development Opportunities
+* 🤝 Open Source Collaboration
+* 🚀 Full-Stack Projects
+* 🧠 DSA & Problem-Solving Challenges
+* 🌱 Opportunities to learn and grow as a developer
+
+If you're working on something interesting, feel free to connect!
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/harsh__choudhary__49/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:harshchoudhary839395@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/harsh__choudhary__49">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+**"Build. Learn. Break. Fix. Repeat."**
+
+<br/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
