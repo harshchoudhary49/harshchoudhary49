@@ -82,6 +82,7 @@ I'm a passionate **Full-Stack Developer** focused on building practical, scalabl
 
 # 📊 GitHub Overview
 
+<div align="center">
 
 ### 🔥 Contribution Streak
 
