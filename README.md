@@ -104,28 +104,6 @@ I'm a passionate **Full-Stack Developer** focused on building practical, scalabl
 
 ---
 
-## 📅 Contribution Activity
-
-<div align="center">
-
-[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49\&theme=github-compact\&hide_border=true)](https://github.com/harshchoudhary49)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/harshchoudhary49">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
 ## 💻 Featured Projects
 
 ### 🏢 [WorkHub](https://github.com/harshchoudhary49/WorkHub)
