@@ -11,135 +11,124 @@
   <a href="https://github.com/harshchoudhary49?tab=followers">
     <img src="https://img.shields.io/github/followers/harshchoudhary49?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/harshchoudhary49?tab=repositories">
-    <img src="https://img.shields.io/github/stars/harshchoudhary49?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars"/>
-  </a>
 </p>
 
 <p>
-  <a href="https://github.com/harshchoudhary49">
-    <img src="https://img.shields.io/badge/GitHub-Harsh%20Choudhary-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
     <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshchoudhary839395@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
+  <a href="https://leetcode.com/harsh__choudhary__49/">
+    <img src="https://img.shields.io/badge/LeetCode-Harsh__Choudhary-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** focused on building practical, scalable, and user-friendly web applications.
 
 * 🔭 Currently building **[WorkHub](https://github.com/harshchoudhary49/WorkHub)**
 * 🌱 Currently learning **Tailwind CSS** and improving my full-stack development skills
-* 💻 Strong interest in **React.js, Node.js, Express.js, MongoDB and Java**
+* 💻 Working with **React.js, Node.js, Express.js, MongoDB and Java**
 * 🧠 Practicing **Data Structures & Algorithms in Java**
 * 🤝 Open to collaborating on interesting web development projects
-* 🎯 Currently focused on becoming a **job-ready full-stack developer**
+* 🎯 Focused on becoming a **job-ready full-stack developer**
 * ⚡ I enjoy turning ideas into functional applications and solving problems through code
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### Databases & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,aws" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,linux,aws" />
 </p>
 
 ---
 
-# 📊 GitHub Overview
+# 📊 GitHub Statistics
 
 <div align="center">
 
-### 📈 GitHub Statistics
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark" alt="Harsh's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary49&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&hide_border=true&theme=github-dark-blue" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary49&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Harsh's Top Languages"/>
 
 </div>
 
 ---
 
-## 📅 Contribution Activity
+# 🔥 Contribution Streak
 
 <div align="center">
 
-[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49\&theme=github-compact\&hide_border=true)](https://github.com/harshchoudhary49)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary49&theme=github-dark-blue&hide_border=true" alt="Harsh's GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/harshchoudhary49">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshchoudhary49&theme=github-compact&hide_border=true&area=true" alt="Harsh's GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+# 🏆 GitHub Achievements
 
-### 🏢 [WorkHub](https://github.com/harshchoudhary49/WorkHub)
+<div align="center">
 
-**Full-Stack Workforce Management Platform**
+<img src="https://github-profile-trophy.vercel.app/?username=harshchoudhary49&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Profile Trophies"/>
 
-A workforce management platform designed to manage employees, teams, attendance, departments, and day-to-day operations while providing better visibility into team participation and individual contributions.
+</div>
 
-**Key focus:**
+---
+
+# 🚀 Featured Projects
+
+## 🏢 WorkHub
+
+### Workforce Management Platform
+
+**[View Repository →](https://github.com/harshchoudhary49/WorkHub)**
+
+WorkHub is a full-stack workforce management platform designed to manage employees, teams, attendance, departments, and day-to-day operations while providing better visibility into team participation and individual contributions.
+
+**Highlights**
 
 * 👥 Employee & team management
 * 📊 Team participation tracking
-* 🕒 Attendance & working hours
-* 🏢 Departments & offices
+* 🕒 Attendance & working-hours tracking
+* 🏢 Departments & office management
 * 🔐 Authentication & role-based access
 * 📈 Better visibility into team contribution
 
@@ -147,97 +136,77 @@ A workforce management platform designed to manage employees, teams, attendance,
 
 ---
 
-### 🏠 [Airbnb](https://github.com/harshchoudhary49/airbnb)
+## 🏠 Airbnb
 
-**Full-Stack Accommodation Platform**
+### Full-Stack Accommodation Platform
 
-A web application inspired by accommodation and property-booking platforms, built to practice modern full-stack development and create a complete user-focused web experience.
+**[View Repository →](https://github.com/harshchoudhary49/airbnb)**
+
+A full-stack web application inspired by accommodation and property-booking platforms, built to practice modern web development and create a complete user-focused application.
 
 **Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB` `React.js`
 
 ---
 
-## 🧠 Data Structures & Algorithms
+# 🧠 Data Structures & Algorithms
 
-I'm actively improving my problem-solving skills with **Java + DSA**.
+I'm actively improving my problem-solving skills using **Java + DSA**.
 
-### Currently practicing
+### Currently Practicing
 
-* 🔹 Arrays & Strings
-* 🔹 Recursion
-* 🔹 Linked Lists
-* 🔹 Stacks & Queues
-* 🔹 Binary Trees
-* 🔹 Binary Search
-* 🔹 Sorting
-* 🔹 Hashing
-* 🔹 Two Pointers
-* 🔹 Problem-solving patterns
+`Arrays` • `Strings` • `Recursion` • `Linked Lists` • `Stacks` • `Queues` • `Binary Trees` • `Binary Search` • `Sorting` • `Hashing`
 
-### 🟡 LeetCode
+<div align="center">
 
 <a href="https://leetcode.com/harsh__choudhary__49/">
-  <img src="https://img.shields.io/badge/LeetCode-Harsh__Choudhary-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-> Consistently practicing DSA to improve algorithmic thinking and problem-solving.
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-```text
-Frontend Development       ███████████████████░░  90%
-Backend Development        ████████████████░░░░░  80%
-Java & DSA                 ███████████████░░░░░░  75%
-Database & API Design      ███████████████░░░░░░  75%
-System Design              ████████░░░░░░░░░░░░░  40%
-```
+<table align="center">
+<tr>
+<td align="center">⚛️<br/><b>React.js</b></td>
+<td align="center">🟢<br/><b>Node.js</b></td>
+<td align="center">🍃<br/><b>MongoDB</b></td>
+<td align="center">☕<br/><b>Java</b></td>
+<td align="center">🧠<br/><b>DSA</b></td>
+</tr>
+</table>
 
-### Currently Learning
+I'm currently focused on:
 
-* ⚛️ Advanced React
-* 🎨 Tailwind CSS
-* 🟢 Node.js & Express.js
-* 🍃 MongoDB
-* ☕ Java & DSA
-* 🔐 Authentication & API Security
-* 🏗️ Backend architecture
-
----
-
-## 📌 What I'm Looking For
-
-I'm interested in:
-
-* 💼 Software Development Opportunities
-* 🤝 Open Source Collaboration
-* 🚀 Full-Stack Projects
-* 🧠 DSA & Problem-Solving Challenges
-* 🌱 Opportunities to learn and grow as a developer
-
-If you're working on something interesting, feel free to connect!
+* Building full-stack applications
+* Improving backend development
+* Strengthening DSA fundamentals
+* Learning modern frontend technologies
+* Writing cleaner and more maintainable code
+* Preparing for software development opportunities
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/harsh-choudhary-857755403/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/harsh__choudhary__49/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:harshchoudhary839395@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-&nbsp;&nbsp;
+
+<a href="https://leetcode.com/harsh__choudhary__49/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 <a href="https://instagram.com/harsh__choudhary__49">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -248,10 +217,10 @@ If you're working on something interesting, feel free to connect!
 
 ### 💭 Developer Philosophy
 
-**"Build. Learn. Break. Fix. Repeat."**
+**Build • Learn • Break • Fix • Repeat**
 
 <br/>
 
-⭐ If you find my projects interesting, consider giving them a star!
+⭐ If you find my projects useful, consider giving them a star!
 
 </div>
