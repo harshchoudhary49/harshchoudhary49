@@ -75,7 +75,7 @@ I'm a passionate **Full-Stack Developer** focused on building practical, scalabl
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
 </p>
 
 ---
